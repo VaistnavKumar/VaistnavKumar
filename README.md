@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://github.com/VaistnavKumar/Vaistnav-Kumar-Resume.pdf.git" target="_blank">
+  <a href="https://github.com/VaistnavKumar/Vaistnav-Kumar-Resume.pdf/blob/main/Vaistnav%20Kumar%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 
