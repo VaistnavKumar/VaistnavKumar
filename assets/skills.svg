@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1040 789" role="img" aria-labelledby="title desc">
+<title id="title">Vaistnav Kumar technical skills</title>
+<desc id="desc">Animated progress bars showing languages, frameworks, DevOps, AI, databases, and cloud skills.</desc>
+<rect width="100%" height="100%" rx="16" fill="#0d1117"/>
+<style>
+  .heading { fill: #f0f6fc; font: 600 20px ui-sans-serif, system-ui, sans-serif; }
+  .subtitle { fill: #8b949e; font: 13px ui-sans-serif, system-ui, sans-serif; }
+  .category { fill: #79c0ff; font: 600 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .skill { fill: #c9d1d9; font: 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .percentage { fill: #8b949e; font: 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+</style>
+<text x="34" y="38" class="heading">Skills &amp; toolkit</text>
+<text x="34" y="60" class="subtitle">Proficiency self-assessment · generated locally</text>
+<text x="34" y="91" class="category">Languages</text>
+<text x="34" y="128" class="skill">Python</text>
+<text x="438" y="128" text-anchor="end" class="percentage">95%</text>
+<rect x="34" y="137" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="137" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="383.80" begin="0.35s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="165" class="skill">JavaScript</text>
+<text x="438" y="165" text-anchor="end" class="percentage">85%</text>
+<rect x="34" y="174" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="174" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="343.40" begin="0.45s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="202" class="skill">TypeScript</text>
+<text x="438" y="202" text-anchor="end" class="percentage">80%</text>
+<rect x="34" y="211" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="211" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="323.20" begin="0.55s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="263" class="category">DevOps</text>
+<text x="34" y="300" class="skill">Docker</text>
+<text x="438" y="300" text-anchor="end" class="percentage">75%</text>
+<rect x="34" y="309" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="309" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="303.00" begin="0.65s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="337" class="skill">Git &amp; GitHub</text>
+<text x="438" y="337" text-anchor="end" class="percentage">90%</text>
+<rect x="34" y="346" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="346" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="0.75s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="374" class="skill">GitHub Actions</text>
+<text x="438" y="374" text-anchor="end" class="percentage">85%</text>
+<rect x="34" y="383" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="383" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="343.40" begin="0.85s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="435" class="category">Databases</text>
+<text x="34" y="472" class="skill">PostgreSQL</text>
+<text x="438" y="472" text-anchor="end" class="percentage">80%</text>
+<rect x="34" y="481" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="481" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="323.20" begin="0.95s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="509" class="skill">Supabase</text>
+<text x="438" y="509" text-anchor="end" class="percentage">90%</text>
+<rect x="34" y="518" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="518" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="1.05s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="546" class="skill">Firebase</text>
+<text x="438" y="546" text-anchor="end" class="percentage">70%</text>
+<rect x="34" y="555" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="555" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="282.80" begin="1.15s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="607" class="category">Cloud</text>
+<text x="34" y="644" class="skill">Google Cloud</text>
+<text x="438" y="644" text-anchor="end" class="percentage">75%</text>
+<rect x="34" y="653" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="653" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="303.00" begin="1.25s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="681" class="skill">Vercel</text>
+<text x="438" y="681" text-anchor="end" class="percentage">90%</text>
+<rect x="34" y="690" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="690" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="1.35s" dur="0.55s" fill="freeze"/></rect>
+<text x="34" y="718" class="skill">Cloudflare</text>
+<text x="438" y="718" text-anchor="end" class="percentage">75%</text>
+<rect x="34" y="727" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="34" y="727" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="303.00" begin="1.45s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="91" class="category">Frameworks</text>
+<text x="484" y="128" class="skill">Next.js</text>
+<text x="888" y="128" text-anchor="end" class="percentage">90%</text>
+<rect x="484" y="137" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="137" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="0.35s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="165" class="skill">React</text>
+<text x="888" y="165" text-anchor="end" class="percentage">85%</text>
+<rect x="484" y="174" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="174" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="343.40" begin="0.45s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="202" class="skill">FastAPI</text>
+<text x="888" y="202" text-anchor="end" class="percentage">95%</text>
+<rect x="484" y="211" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="211" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="383.80" begin="0.55s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="239" class="skill">Tailwind CSS</text>
+<text x="888" y="239" text-anchor="end" class="percentage">90%</text>
+<rect x="484" y="248" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="248" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="0.65s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="300" class="category">AI &amp; Automation</text>
+<text x="484" y="337" class="skill">AI Voice Agents</text>
+<text x="888" y="337" text-anchor="end" class="percentage">95%</text>
+<rect x="484" y="346" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="346" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="383.80" begin="0.75s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="374" class="skill">LiveKit</text>
+<text x="888" y="374" text-anchor="end" class="percentage">90%</text>
+<rect x="484" y="383" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="383" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="0.85s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="411" class="skill">Google Gemini</text>
+<text x="888" y="411" text-anchor="end" class="percentage">90%</text>
+<rect x="484" y="420" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="420" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="0.95s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="448" class="skill">OpenAI API</text>
+<text x="888" y="448" text-anchor="end" class="percentage">90%</text>
+<rect x="484" y="457" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="457" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="1.05s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="485" class="skill">n8n Automation</text>
+<text x="888" y="485" text-anchor="end" class="percentage">95%</text>
+<rect x="484" y="494" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="494" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="383.80" begin="1.15s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="522" class="skill">REST APIs</text>
+<text x="888" y="522" text-anchor="end" class="percentage">95%</text>
+<rect x="484" y="531" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="531" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="383.80" begin="1.25s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="559" class="skill">Webhook Integration</text>
+<text x="888" y="559" text-anchor="end" class="percentage">95%</text>
+<rect x="484" y="568" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="568" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="383.80" begin="1.35s" dur="0.55s" fill="freeze"/></rect>
+<text x="484" y="596" class="skill">Prompt Engineering</text>
+<text x="888" y="596" text-anchor="end" class="percentage">90%</text>
+<rect x="484" y="605" width="404" height="9" rx="4.5" fill="#21262d"/>
+<rect x="484" y="605" width="0" height="9" rx="4.5" fill="#58a6ff"><animate attributeName="width" from="0" to="363.60" begin="1.45s" dur="0.55s" fill="freeze"/></rect>
+</svg>

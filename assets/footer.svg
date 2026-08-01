@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 188" role="img" aria-labelledby="title desc">
+<title id="title">Profile footer</title>
+<desc id="desc">A terminal footer thanking visitors, followed by a blinking command cursor.</desc>
+<rect width="100%" height="100%" rx="16" fill="#0d1117"/>
+<style>.terminal-line { font: 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }</style>
+<text x="32" y="56" fill="#c9d1d9" class="terminal-line" opacity="0">────────────────────────────────────────<animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.12s" fill="freeze"/></text>
+<text x="32" y="84" fill="#c9d1d9" class="terminal-line" opacity="0">Thanks for visiting.<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.12s" fill="freeze"/></text>
+<text x="32" y="112" fill="#c9d1d9" class="terminal-line" opacity="0">Have a nice day.<animate attributeName="opacity" from="0" to="1" begin="0.76s" dur="0.12s" fill="freeze"/></text>
+<text x="32" y="140" fill="#3fb950" class="terminal-line" opacity="0">$<animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.12s" fill="freeze"/></text>
+<rect x="48" y="126" width="9" height="18" fill="#3fb950" opacity="0"><set attributeName="opacity" to="1" begin="1.32s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="1.32s" repeatCount="indefinite"/></rect>
+</svg>

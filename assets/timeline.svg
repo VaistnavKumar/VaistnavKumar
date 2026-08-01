@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1040 648" role="img" aria-labelledby="title desc">
+<title id="title">Vaistnav Kumar career timeline</title>
+<desc id="desc">An animated vertical timeline from 2022 to 2026.</desc>
+<rect width="100%" height="100%" rx="16" fill="#0d1117"/>
+<style>
+  .heading { fill: #f0f6fc; font: 600 20px ui-sans-serif, system-ui, sans-serif; }
+  .subtitle { fill: #8b949e; font: 13px ui-sans-serif, system-ui, sans-serif; }
+  .year { fill: #79c0ff; font: 600 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .title { fill: #f0f6fc; font: 600 16px ui-sans-serif, system-ui, sans-serif; }
+  .detail { fill: #8b949e; font: 13px ui-sans-serif, system-ui, sans-serif; }
+</style>
+<text x="38" y="38" class="heading">Career timeline</text>
+<text x="38" y="60" class="subtitle">A path from code curiosity to production AI systems</text>
+<path d="M180 112V560" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" begin="0.15s" dur="1.8s" fill="freeze"/></path>
+<text x="152" y="117" text-anchor="end" class="year" opacity="0">2022<animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.15s" fill="freeze"/></text>
+<circle cx="180" cy="112" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.15s" fill="freeze"/></circle>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.2s" fill="freeze"/>
+  <rect x="220" y="74" width="770" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="103" class="title">Started Programming Journey</text>
+  <text x="244" y="127" class="detail"><tspan x="244" dy="0">Began building a foundation in software development.</tspan></text>
+</g>
+<text x="152" y="229" text-anchor="end" class="year" opacity="0">2023<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.15s" fill="freeze"/></text>
+<circle cx="180" cy="224" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.15s" fill="freeze"/></circle>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.2s" fill="freeze"/>
+  <rect x="220" y="186" width="770" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="215" class="title">Built Full-Stack Web Applications</text>
+  <text x="244" y="239" class="detail"><tspan x="244" dy="0">Developed modern web experiences from frontend to backend.</tspan></text>
+</g>
+<text x="152" y="341" text-anchor="end" class="year" opacity="0">2024<animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.15s" fill="freeze"/></text>
+<circle cx="180" cy="336" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.15s" fill="freeze"/></circle>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.2s" fill="freeze"/>
+  <rect x="220" y="298" width="770" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="327" class="title">Graduated &amp; Began Freelancing</text>
+  <text x="244" y="351" class="detail"><tspan x="244" dy="0">Completed B.Sc. in Information Technology.</tspan><tspan x="244" dy="19">Started delivering client-focused software projects.</tspan></text>
+</g>
+<text x="152" y="453" text-anchor="end" class="year" opacity="0">2025<animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.15s" fill="freeze"/></text>
+<circle cx="180" cy="448" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.15s" fill="freeze"/></circle>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.66s" dur="0.2s" fill="freeze"/>
+  <rect x="220" y="410" width="770" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="439" class="title">Applied AI to Healthcare</text>
+  <text x="244" y="463" class="detail"><tspan x="244" dy="0">Built AI voice agents and an appointment-booking SaaS.</tspan><tspan x="244" dy="19">Worked on healthcare automation workflows.</tspan></text>
+</g>
+<text x="152" y="565" text-anchor="end" class="year" opacity="0">2026<animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.15s" fill="freeze"/></text>
+<circle cx="180" cy="560" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.15s" fill="freeze"/></circle>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.08s" dur="0.2s" fill="freeze"/>
+  <rect x="220" y="522" width="770" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="551" class="title">Founded KB AI</text>
+  <text x="244" y="575" class="detail"><tspan x="244" dy="0">Built multi-agent AI systems.</tspan><tspan x="244" dy="19">Developing production AI SaaS products.</tspan></text>
+</g>
+</svg>

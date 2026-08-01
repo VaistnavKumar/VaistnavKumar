@@ -1,0 +1,7 @@
+beautifulsoup4==4.13.4
+numpy==2.2.6
+onnxruntime==1.22.0
+opencv-python-headless==4.11.0.86
+Pillow==11.2.1
+rembg==2.0.67
+requests==2.32.4

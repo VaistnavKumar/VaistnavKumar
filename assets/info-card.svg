@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1040 531" role="img" aria-labelledby="title desc">
+<title id="title">Vaistnav Kumar profile information</title>
+<desc id="desc">An animated terminal card containing Vaistnav Kumar's professional profile.</desc>
+<rect width="100%" height="100%" rx="20" fill="#0d1117"/>
+<path d="M20 0h1000a20 20 0 0 1 20 20v54H0V20A20 20 0 0 1 20 0z" fill="#161b22"/>
+<circle cx="37" cy="37" r="9" fill="#ff5f57"/><circle cx="67" cy="37" r="9" fill="#febc2e"/><circle cx="97" cy="37" r="9" fill="#28c840"/>
+<text x="520" y="43" text-anchor="middle" class="window-title">vaistnav@github-profile — zsh</text>
+<style>
+  .window-title { fill: #8b949e; font: 500 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .line { font: 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .prompt { fill: #3fb950; } .label { fill: #79c0ff; } .value { fill: #c9d1d9; }
+</style>
+  <text x="36" y="110" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Name:</tspan><tspan class="value"> Vaistnav Kumar</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="145" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Role:</tspan><tspan class="value"> 🚀 AI Engineer | Voice AI | Full Stack Developer</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.59s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="180" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Location:</tspan><tspan class="value"> India, Tirupati</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.83s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="215" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Current Focus:</tspan><tspan class="value"> AI Voice Agents &amp; Healthcare SaaS</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.07s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="250" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Languages:</tspan><tspan class="value"> Python, TypeScript, JavaScript</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="285" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Tech Stack:</tspan><tspan class="value"> Next.js, React, FastAPI, Tailwind CSS, Supabase, PostgreSQL, LiveKit, Docker</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="320" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Frameworks:</tspan><tspan class="value"> Next.js, React, FastAPI, Tailwind CSS</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.79s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="355" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Cloud:</tspan><tspan class="value"> Supabase, Google Cloud, Vercel, Cloudflare, GitHub Actions</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.03s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="390" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Database:</tspan><tspan class="value"> PostgreSQL, Supabase, Firebase</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.27s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="425" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Interests:</tspan><tspan class="value"> Voice AI, AI Agents, Automation, Healthcare SaaS</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.51s" dur="0.12s" fill="freeze"/>
+  </text>
+  <text x="36" y="460" class="line" opacity="0">
+    <tspan class="prompt">❯</tspan><tspan class="label"> Social Links:</tspan><tspan class="value"> GitHub: https://github.com/VaistnavKumar</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.12s" fill="freeze"/>
+  </text>
+</svg>

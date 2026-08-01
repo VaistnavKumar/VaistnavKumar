@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1060 550" role="img" aria-labelledby="title desc">
+<title id="title">Vaistnav Kumar terminal dashboard</title>
+<desc id="desc">A macOS-style terminal with an ASCII portrait and typed system information.</desc>
+<rect width="100%" height="100%" rx="20" fill="#0d1117"/>
+<path d="M20 0h1020a20 20 0 0 1 20 20v52H0V20A20 20 0 0 1 20 0z" fill="#161b22"/>
+<circle cx="38" cy="36" r="9" fill="#ff5f57"/><circle cx="68" cy="36" r="9" fill="#febc2e"/><circle cx="98" cy="36" r="9" fill="#28c840"/>
+<text x="530" y="42" text-anchor="middle" class="window-title">vaistnav@github-profile — zsh</text>
+<path d="M246 98V512" stroke="#30363d"/>
+<style>
+  .window-title { fill: #8b949e; font: 500 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .portrait { fill: #86efac; font: 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .prompt { fill: #3fb950; font: 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .output { fill: #c9d1d9; font: 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  .cursor { fill: #3fb950; }
+</style>
+<text x="36" y="109" class="portrait" xml:space="preserve" opacity="0">                              <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="121" class="portrait" xml:space="preserve" opacity="0">            .:=+++-: .        <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="133" class="portrait" xml:space="preserve" opacity="0">         ...*@@#**%= .        <animate attributeName="opacity" from="0" to="1" begin="0.29s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="145" class="portrait" xml:space="preserve" opacity="0">           .***:===: .        <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="157" class="portrait" xml:space="preserve" opacity="0">          ..:=+*++=....       <animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="169" class="portrait" xml:space="preserve" opacity="0">         .   :*%%+-    .      <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="181" class="portrait" xml:space="preserve" opacity="0">           :=*-=*%#+=-. .     <animate attributeName="opacity" from="0" to="1" begin="0.47s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="193" class="portrait" xml:space="preserve" opacity="0">       ...#@@@##%%%%%%*: .    <animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="205" class="portrait" xml:space="preserve" opacity="0">       . -@%%%%%##%%%%%*...   <animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="217" class="portrait" xml:space="preserve" opacity="0">       . =@%%@%%%%%@@%%%- .   <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="229" class="portrait" xml:space="preserve" opacity="0">       . :#@@@%@%%%@@+=-: .   <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="241" class="portrait" xml:space="preserve" opacity="0">       . :+%@@%%%%%@@+==- .   <animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="253" class="portrait" xml:space="preserve" opacity="0">       ..=#@@%%%%%#@+:+-= .   <animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="265" class="portrait" xml:space="preserve" opacity="0">       . *@@@%%%%%#%:.*=-.    <animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="277" class="portrait" xml:space="preserve" opacity="0">      . -%@@@%%##%@*..**=..   <animate attributeName="opacity" from="0" to="1" begin="0.83s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="289" class="portrait" xml:space="preserve" opacity="0">     . -@@%%%%####%:  **:     <animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="301" class="portrait" xml:space="preserve" opacity="0">    . -@@@@%%%%%%%%-:-**--: . <animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="313" class="portrait" xml:space="preserve" opacity="0">   . =@@@@@%%%%%%%%#*+=-*##+ .<animate attributeName="opacity" from="0" to="1" begin="0.97s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="325" class="portrait" xml:space="preserve" opacity="0">  . -@@@@@@%%%%%%@%+---:+@%#. <animate attributeName="opacity" from="0" to="1" begin="1.01s" dur="0.01s" fill="freeze"/></text>
+<text x="36" y="337" class="portrait" xml:space="preserve" opacity="0"> . :@@@@@@@%%@@%%@%:    :@%%: <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.01s" fill="freeze"/></text>
+<clipPath id="typing-clip-0"><rect x="278" y="96" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="0.30s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="114" class="prompt" clip-path="url(#typing-clip-0)">vaistnav@ai-workstation:~$ whoami</text>
+<clipPath id="typing-clip-1"><rect x="278" y="123" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="0.42s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="141" class="output" clip-path="url(#typing-clip-1)">Vaistnav Kumar</text>
+<clipPath id="typing-clip-2"><rect x="278" y="150" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="0.54s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="168" class="prompt" clip-path="url(#typing-clip-2)">vaistnav@ai-workstation:~$ cat /etc/profile</text>
+<clipPath id="typing-clip-3"><rect x="278" y="177" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="0.66s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="195" class="output" clip-path="url(#typing-clip-3)">Name     : Vaistnav Kumar</text>
+<clipPath id="typing-clip-4"><rect x="278" y="204" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="0.78s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="222" class="output" clip-path="url(#typing-clip-4)">Role     : AI Engineer | Voice AI | Full Stack</text>
+<clipPath id="typing-clip-5"><rect x="278" y="231" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="0.90s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="249" class="output" clip-path="url(#typing-clip-5)">Location : Tirupati, India</text>
+<clipPath id="typing-clip-6"><rect x="278" y="258" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="1.02s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="276" class="output" clip-path="url(#typing-clip-6)">Focus    : AI Voice Agents &amp; Healthcare SaaS</text>
+<clipPath id="typing-clip-7"><rect x="278" y="285" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="1.14s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="303" class="output" clip-path="url(#typing-clip-7)">Stack    : Python · Next.js · FastAPI · Supabase</text>
+<clipPath id="typing-clip-8"><rect x="278" y="312" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="1.26s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="330" class="output" clip-path="url(#typing-clip-8)">Voice    : LiveKit · OpenAI API · Google Gemini</text>
+<clipPath id="typing-clip-9"><rect x="278" y="339" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="1.38s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="357" class="output" clip-path="url(#typing-clip-9)">Status   : Building production AI SaaS products</text>
+<clipPath id="typing-clip-10"><rect x="278" y="366" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="1.50s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="384" class="prompt" clip-path="url(#typing-clip-10)">vaistnav@ai-workstation:~$ echo $CURRENT_MISSION</text>
+<clipPath id="typing-clip-11"><rect x="278" y="393" width="0" height="24"><animate attributeName="width" from="0" to="730" begin="1.62s" dur="0.42s" fill="freeze"/></rect></clipPath>
+<text x="278" y="411" class="output" clip-path="url(#typing-clip-11)">Designing helpful voice-first AI systems.</text>
+<rect x="278" y="422" width="9" height="17" class="cursor" opacity="0"><set attributeName="opacity" to="1" begin="1.74s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="1.74s" repeatCount="indefinite"/></rect>
+</svg>
