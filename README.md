@@ -7,6 +7,28 @@
   <sub>Every visual below is generated locally with Python, SVG, and GitHub Actions.</sub>
 </p>
 
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaistnavkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://vaistnavportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/VaistnavKumar/raw/main/Vaistnav%20Kumar%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/VaistnavKumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
 ## Contribution Heatmap
 
 <p align="center">
