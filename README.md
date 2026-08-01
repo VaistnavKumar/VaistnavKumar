@@ -7,6 +7,12 @@
   <sub>Every visual below is generated locally with Python, SVG, and GitHub Actions.</sub>
 </p>
 
+##  📥 Mail To Us
+
+<a href="mailto:Vaistnav46@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ## 🌐 Connect with Me
 
