@@ -1121,7 +1121,7 @@
   <title>2026-08-07: 0 contributions</title><animate attributeName="opacity" from="0" to="1" begin="1.454s" dur="0.13s" fill="freeze"/>
 </rect>
 <rect x="895" y="163" width="12" height="12" rx="3" fill="#161b22" opacity="0">
-  <title>Outside contribution range: 0 contributions</title><animate attributeName="opacity" from="0" to="1" begin="1.476s" dur="0.13s" fill="freeze"/>
+  <title>2026-08-08: 0 contributions</title><animate attributeName="opacity" from="0" to="1" begin="1.476s" dur="0.13s" fill="freeze"/>
 </rect>
 <text x="725" y="203" class="muted">Less</text><rect x="768" y="192" width="12" height="12" rx="3" fill="#161b22"/><rect x="786" y="192" width="12" height="12" rx="3" fill="#0e4429"/><rect x="804" y="192" width="12" height="12" rx="3" fill="#006d32"/><rect x="822" y="192" width="12" height="12" rx="3" fill="#26a641"/><rect x="840" y="192" width="12" height="12" rx="3" fill="#39d353"/><text x="868" y="203" class="muted">More</text>
 <path d="M28 223H907" stroke="#30363d"/>
